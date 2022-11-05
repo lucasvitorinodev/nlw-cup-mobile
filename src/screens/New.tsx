@@ -21,7 +21,7 @@ export function New() {
           Crie seu próprio bolão da copa {"\n"}e compartilhe entre amigos!
         </Heading>
         <Input mb={2} placeholder="Qual nome do seu bolão?" />
-        r
+
         <Button title="CRIAR MEU BOLÃO" />
         <Text color="gray.200" fontSize="sm" textAlign="center" px={10} mt={4}>
           Após criar seu bolão, você receberá um código único que poderá usar
